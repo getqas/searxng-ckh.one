@@ -4,11 +4,6 @@ JasonSearch is a [metasearch engine], aggregating the results of other
 {{link('search engines', 'preferences')}} while not storing information about
 its users. JasonSearch is a fork of SearxNG.
 
-The JasonSearch project is driven by an open community, come join us on Matrix if
-you have questions or just want to chat about SearXNG at [#searxng:matrix.org]
-
-JasonSearch is community supported search. Every donation goes to expand the service.
-
 ## Why use it?
 
 - JasonSearch may not offer you as personalized results as Google, but it doesn't
