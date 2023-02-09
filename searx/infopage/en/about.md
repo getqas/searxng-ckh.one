@@ -2,7 +2,12 @@
 
 JasonSearch is a [metasearch engine], aggregating the results of other
 {{link('search engines', 'preferences')}} while not storing information about
-its users. JasonSearch is a fork of SearxNG.
+its users. JasonSearch is a unique and completely independent fork of SearxNG. 
+
+JasonSearch has its own index on numerous news sites marginalized by the mainstream
+media to ensure fairness and accuracy of search results.
+
+JasonSearch is managed by a single developer : Jason Nobles.
 
 ## Why use it?
 
@@ -14,7 +19,8 @@ its users. JasonSearch is a fork of SearxNG.
   make it better.
 
 If you do care about privacy, want to be a conscious user, or otherwise believe
-in digital freedom, make JasonSearch your default search engine or run your own instance of SearxNG or JasonSearch on your
+in digital freedom, make JasonSearch your default search engine or run your own 
+instance of SearxNG or JasonSearch on your
 own server!
 
 ## How do I set it as the default search engine?
@@ -28,42 +34,23 @@ search engine, see your browser's documentation:
 - [Chromium]-based browsers only add websites that the user navigates to without
   a path.
 
-When adding a search engine, there must be no duplicates with the same name.  If
-you encounter a problem where you cannot add the search engine, you can either:
-
-- remove the duplicate (default name: SearXNG) or
-- contact the owner to give the instance a different name than the default.
 
 ## How does it work?
 
 JasonSearch is a fork of SearXNG. SearxNG is a fork from the well-known [searx] [metasearch engine] which was
 inspired by the [Seeks project].  It provides basic privacy by mixing your
-queries with searches on other platforms without storing search data.  SearXNG
-can be added to your browser's search bar; moreover, it can be set as the
-default search engine.
+queries with searches on other platforms without storing search data.
 
 The {{link('stats page', 'stats')}} contains some useful anonymous usage
 statistics about the engines used.
 
 ## How can I make it my own?
 
-SearXNG appreciates your concern regarding logs, so take the code from the
-[SearXNG sources] and run it yourself!
+JasonSearch appreciates your concern regarding logs, so take the code from the github repository and run it yourself!
+The only way to be sure no one is tracking you is to run the application on your own server.
 
-Add your instance to this [list of public
-instances]({{get_setting('brand.public_instances')}}) to help other people
-reclaim their privacy and make the internet freer.  The more decentralized the
-internet is, the more freedom we have!
+## Donate To Support!
+
+Visit https://donate.jasonsearch.com to become a supporter of JasonSearch Today.
 
 
-[SearXNG sources]: {{GIT_URL}}
-[#searxng:matrix.org]: https://matrix.to/#/#searxng:matrix.org
-[SearXNG docs]: {{get_setting('brand.docs_url')}}
-[searx]: https://github.com/searx/searx
-[metasearch engine]: https://en.wikipedia.org/wiki/Metasearch_engine
-[Weblate]: https://translate.codeberg.org/projects/searxng/
-[Seeks project]: https://beniz.github.io/seeks/
-[OpenSearch]: https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md
-[Firefox]: https://support.mozilla.org/en-US/kb/add-or-remove-search-engine-firefox
-[Microsoft Edge]: https://support.microsoft.com/en-us/help/4028574/microsoft-edge-change-the-default-search-engine
-[Chromium]: https://www.chromium.org/tab-to-search
