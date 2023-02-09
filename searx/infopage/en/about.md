@@ -23,28 +23,16 @@ in digital freedom, make JasonSearch your default search engine or run your own
 instance of SearxNG or JasonSearch on your
 own server!
 
-## How do I set it as the default search engine?
-
-JasonSearch supports [OpenSearch].  For more information on changing your default
-search engine, see your browser's documentation:
-
-- [Firefox]
-- [Microsoft Edge] - Behind the link, you will also find some useful instructions
-  for Chrome and Safari.
-- [Chromium]-based browsers only add websites that the user navigates to without
-  a path.
-
 
 ## How does it work?
 
-JasonSearch is a fork of SearXNG. SearxNG is a fork from the well-known [searx] [metasearch engine] which was
-inspired by the [Seeks project].  It provides basic privacy by mixing your
+JasonSearch is a fork of SearXNG. SearxNG is a fork from the well-known Searx metasearch engine which was
+inspired by the Seeks Project.  It provides basic privacy by mixing your
 queries with searches on other platforms without storing search data.
 
-The {{link('stats page', 'stats')}} contains some useful anonymous usage
-statistics about the engines used.
 
 ## How can I make it my own?
+
 
 JasonSearch appreciates your concern regarding logs, so take the code from the github repository and run it yourself!
 The only way to be sure no one is tracking you is to run the application on your own server.
