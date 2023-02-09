@@ -3,8 +3,8 @@
 ----
 
 .. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
-   :target: https://docs.searxng.org/
-   :alt: SearXNG
+   :target: https://jasonsearch.com/
+   :alt: jasonsearch.com
    :width: 100%
    :align: center
 
