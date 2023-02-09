@@ -9,8 +9,10 @@
    :align: center
 
 ----
+What is JasonSearch
+===============
 
-
+JasonSearch is a unique and independent fork of SearXNG, a meta-search engine. JasonSearch indexes locally certain websites to give you better more accurate results. JasonSearch is managed by one developer. Please support this work! 
 
 Make a donation
 ===============
