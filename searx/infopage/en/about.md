@@ -1,13 +1,19 @@
 # About JasonSearch
 
-JasonSearch is a [metasearch engine], aggregating the results of other
-{{link('search engines', 'preferences')}} while not storing information about
+JasonSearch is a metasearch engine, aggregating the results of other
+search engines and databases while not storing information about
 its users. JasonSearch is a unique and completely independent fork of SearxNG. 
 
 JasonSearch has its own index on numerous news sites marginalized by the mainstream
-media to ensure fairness and accuracy of search results.
+media to ensure fairness and accuracy of search results on JasonSearch.
 
-JasonSearch is managed by a single developer : Jason Nobles.
+JasonSearch is managed by a single developer : Jason Nobles, who is a self described truth-seeker
+a self-taught web developer.
+
+## Stop the Burning of the Library Of Alexandria.
+
+JasonSearch is here to help preserve the ability to search freely and acess alternative and minority
+perspectives on various topics while maintaining connection to the rest of the world.
 
 ## Why use it?
 
