@@ -12,8 +12,8 @@ a self-taught web developer.
 
 ## Stop the Burning of the Library Of Alexandria.
 
-JasonSearch is here to help preserve the ability to search freely and acess alternative and minority
-perspectives on various topics while maintaining connection to the rest of the world.
+JasonSearch is here to help preserve the ability to search freely and access alternative and minority
+perspectives on various topics while maintaining connection to the rest of the mainstream world.
 
 ## Why use it?
 
